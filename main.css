@@ -79,6 +79,12 @@ button{
   
 }
 @media only screen and(max-width:520px) {
+  body{
+    background-image: url(images/pattern-background-desktop.svg);
+    background-size: contain;
+    height: 100vh;
+    background-color:lightcyan;
+  }
   main{
     max-width: 280px;
     width: 90%;
