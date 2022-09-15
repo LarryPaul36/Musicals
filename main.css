@@ -32,7 +32,7 @@ body{
   padding: 15px;
 }
 main{
-  width: 70%;
+  width: 50%;
   height: 80%;
   background-color: white;
   border-radius: 10px;
@@ -86,7 +86,7 @@ button{
     background-color:lightcyan;
   }
   main{
-    max-width: 180px;
+    max-width: 280px;
     
   }
 }
