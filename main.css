@@ -71,6 +71,7 @@ button{
 #to-payment{
   color:var(--very-pale-blue);
   margin-bottom: 10px;
+  border: none;
 }
 #cancel-order{
   display: flex;
