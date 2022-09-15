@@ -82,7 +82,7 @@ button{
   main{
     max-width: 280px;
     width: 90%;
-    height: 80%;
+    height: 100%;
   }
 }
 @media screen and (min-width:520px) {
