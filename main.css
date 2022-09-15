@@ -65,13 +65,14 @@ span{
 button{
   width: 95%;
   padding: 10px 0 ;
+  border: none;
   border-radius: 10px;
   background-color: var(--bright-blue);
 }
 #to-payment{
   color:var(--very-pale-blue);
   margin-bottom: 10px;
-  border: none;
+  
 }
 #cancel-order{
   display: flex;
